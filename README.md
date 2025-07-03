@@ -2,7 +2,7 @@ Matthew Lim is a student pursuing a B.S. in Computer Science at the Georgia Ins
 
 He participates in the vertically integrated laboratory “Surrogate Modeling for Urban Regeneration” (SMUR), where he leads a group of undergraduate students on the development of a data-driven agent-based model to predict neighborhood demographics in response to transportation infrastructure (e.g. the Atlanta Beltline), allowing urban planners to experiment with various "what-if" scenarios to test their designs.
 
-His commitment to mentoring was recognized with the Outstanding Undergraduate Mentor Award from Georgia Tech’s Vertically Integrated Projects (VIP) Program for the 2024‑2025 academic year. Other notable work includes several award-winning hackathon projects, including Buzzline, a Google Build-with-AI Challenge winning fire-evacuation tool which utilizes data produced by SMUR's Mobility-PEI project. 
+His commitment to mentoring was recognized with the Outstanding Undergraduate Mentor Award from Georgia Tech’s Vertically Integrated Projects (VIP) Program for the 2024‑2025 academic year. Other notable work includes several award-winning hackathon projects, including Buzzline, a Google Build-with-AI Award winning fire-evacuation tool which utilizes data produced by SMUR's Mobility-PEI project. 
 
 He believes that transparent, data‑driven simulations can facilitate and guide urban decision‑making by translating complex processes into easily-interpretable insights for both planners and communities. By bridging computer science, open-source urban data, and human‑centered design, he aims to equip stakeholders with efficient, high-resolution tools to realize the transition to "smart" cities.
 
