@@ -4,4 +4,4 @@ He participates in the vertically integrated laboratory “Surrogate Modeling fo
 
 He believes that transparent, data‑driven simulations can facilitate and guide urban decision‑making by translating complex processes into easily-interpretable insights for both planners and communities. By bridging computer science, open-source urban data, and human‑centered design, he aims to equip stakeholders with efficient, high-resolution tools to realize the transition to "smart" cities.
 
-After completing his undergraduate studies, Matthew Lim plans to advance his interest in simulations by modeling other phenomena, such as computer vision-driven behavior in robots and aerodynamic behavior and tracking.
+After completing his undergraduate studies, Matthew Lim plans to advance his interest in simulations by modeling other phenomena, such as data-driven proprioception in robots and fluid dynamic/aerodynamic data analysis.
