@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/matthewxlim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1eXYzNnktv0zGd0BsPXowyG9ji8hn3A6f/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-121013?style=flat-square&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1EpUBc9zIH4aHMm5EnW8tFefv-likTI_W/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-121013?style=flat-square&logo=googledrive&logoColor=white"/></a>
   <a href="mailto:matthewlim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
