@@ -8,7 +8,7 @@
   <a href="mailto:matthewlim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-Hi, I'm Matthew — a B.S. Computer Science student at Georgia Tech (Information Internetworks + Modeling & Simulation). I'm fascinated with how innovation becomes real-world impact... I want to bridge the gap between research and software, and software and improving people's lives.
+Hi, I'm Matthew — a B.S. Computer Science student at Georgia Tech (Information Internetworks + Modeling & Simulation — Dec. '27 graduation). I'm fascinated with how innovation becomes real-world impact... I want to bridge the gap between research and software, and software and improving people's lives.
 ### 💼 Experience
 
 * **`IBM`** | Software Engineer Intern, *watsonx Orchestrate* `Aug 2026 – Present`
