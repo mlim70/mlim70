@@ -55,7 +55,7 @@ Hi, I'm Matthew — a B.S. Computer Science student at Georgia Tech (Information
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📬 Reach me
+### Reach me
 
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13i1IihhQ7_Oinve3yO3ttJMkjluzJhqw/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewxlim)
