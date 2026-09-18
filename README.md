@@ -15,7 +15,7 @@ Hi, I'm Matthew — a B.S. Computer Science student at Georgia Tech (Information
 * **`Johns Hopkins Applied Physics Laboratory`** | Software Engineer Intern `Jun 2026 – Aug 2026`
 * **`Georgia Association of Physicians of Indian Heritage`** | Full-Stack Engineer, *contract* `Jul 2025 – Jul 2026`
 * **`Sustainable Urban Systems Lab`** | Modeling & Simulation Researcher / Project Lead `Aug 2024 – May 2026`
-  * **`Outstanding Undergraduate Mentor Recognition`** — Georgia Tech VIP Program, 1 of 800+ undergraduates in the 2024-2025 academic year `May 2025`
+  * **`Outstanding Undergraduate Mentor Recognition`** — Georgia Tech VIP Program, 1 of 800+ undergraduate awardees in the 2024-2025 academic year `May 2025`
 
 
 
