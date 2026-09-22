@@ -57,6 +57,8 @@ Hi, I'm Matthew — a B.S. Computer Science student at Georgia Tech (Information
 
 ### ✉️ Reach me
 
-[![Resume](https://drive.google.com/file/d/1wtbrLAlwE7Iz1JLFmkeMKwJFUCQ4Rzdc/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1wtbrLAlwE7Iz1JLFmkeMKwJFUCQ4Rzdc/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewxlim)
+[![Email](https://img.shields.io/badge/Email-matthewlim.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewlim.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewxlim)
 [![Email](https://img.shields.io/badge/Email-matthewlim.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewlim.dev@gmail.com)
